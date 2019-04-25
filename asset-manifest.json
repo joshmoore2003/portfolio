@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.584f321a.chunk.css",
-    "main.js": "/portfolio/static/js/main.55dc58d7.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.55dc58d7.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.b263d616.chunk.css",
+    "main.js": "/portfolio/static/js/main.cc3325f3.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.cc3325f3.chunk.js.map",
     "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
     "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
-    "static/js/2.b41502e9.chunk.js": "/portfolio/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/portfolio/static/js/2.b41502e9.chunk.js.map",
+    "static/css/2.79692622.chunk.css": "/portfolio/static/css/2.79692622.chunk.css",
+    "static/js/2.6cca3bdc.chunk.js": "/portfolio/static/js/2.6cca3bdc.chunk.js",
+    "static/js/2.6cca3bdc.chunk.js.map": "/portfolio/static/js/2.6cca3bdc.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.cec82dbaca64a9750c07df36329de10c.js": "/portfolio/precache-manifest.cec82dbaca64a9750c07df36329de10c.js",
+    "precache-manifest.fd3ef6a02346788fe956c72fafb3baed.js": "/portfolio/precache-manifest.fd3ef6a02346788fe956c72fafb3baed.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.584f321a.chunk.css.map": "/portfolio/static/css/main.584f321a.chunk.css.map",
-    "static/media/logo.svg": "/portfolio/static/media/logo.5d5d9eef.svg"
+    "static/css/2.79692622.chunk.css.map": "/portfolio/static/css/2.79692622.chunk.css.map",
+    "static/css/main.b263d616.chunk.css.map": "/portfolio/static/css/main.b263d616.chunk.css.map",
+    "static/media/fridge_frenzy.jpg": "/portfolio/static/media/fridge_frenzy.e2635aa8.jpg",
+    "static/media/gods_gym.jpg": "/portfolio/static/media/gods_gym.962a1849.jpg",
+    "static/media/logo.svg": "/portfolio/static/media/logo.5d5d9eef.svg",
+    "static/media/me.png": "/portfolio/static/media/me.5a99d6b7.png",
+    "static/media/piggy_business.jpg": "/portfolio/static/media/piggy_business.b6813cf9.jpg",
+    "static/media/trivia_game.jpg": "/portfolio/static/media/trivia_game.37dc1e0c.jpg"
   }
 }
